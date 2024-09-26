@@ -9,7 +9,6 @@ This web application allows users to add, view, access, and rate campgrounds by 
 - **Passport package with local strategy**: For authentication and authorization.
 - **Cloudinary**: Used for cloud-based image storage.
 - **Helmet**: Enhances application security.
-- ...
 
 ## Setup Instructions
 
